@@ -41,5 +41,10 @@ public class testGitHub {
 		// TODO Auto-generated method stub
 
 	}
+	
+public gitHubTest() {
+super();
+// TODO Auto-generated constructor stub
+}
 
 }
