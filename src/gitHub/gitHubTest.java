@@ -3,8 +3,12 @@ package gitHub;
 public class gitHubTest {
 	public static void main(String [] args){
 		
+		
+			
 		int odd = 1;
 		int noOfSpaces = 4;
+		
+		
 		for (int i = 1; i <= 4; i++) {
 			
 			int k = 0;
@@ -34,5 +38,10 @@ public class gitHubTest {
 			
 		}
 		
+	}
+
+	public gitHubTest() {
+		super();
+		// TODO Auto-generated constructor stub
 	}
 }
